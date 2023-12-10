@@ -3,8 +3,8 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 
 //═══════[Required Variables]════════,[Make sure you put all values in "" , '']\\
-global.owner = process.env.OWNER_NUMBER || '+923322483690' ; // Add Your Number without +
-global.mongodb = process.env.MONGODB_URI || "mongodb+srv://Maher-Zubair:SIGMA-MD@zubi.9g6b16y.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp" ; // put mongodb key here
+global.owner = process.env.OWNER_NUMBER || '923322483690' ; // Add Your Number without +
+global.mongodb = process.env.MONGODB_URI || "mongodb+srv://mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=majority" ; // put mongodb key here
 global.port=5000  ;
 global.audio = '' ; 
 global.video = '' ;
@@ -51,7 +51,7 @@ module.exports = {
   promote_demote_messages : process.env.PROMOTE_DEMOTE_MESSAGES || 'true' ,
   OPENAI_API_KEY: process.env.OPENAI_API_KEY ||'' , // add your openai key if you have it
   VERSION: process.env.VERSION || '𝚅.𝟷.𝟸.𝟽',
-  LANG: process.env.THEME|| 'S_MD',
+  LANG: process.env.THEME|| 'SIGMA_MD',
   menu : process.env.MENU || '', // Not Available in current Version
   WORKTYPE: process.env.WORKTYPE || 'public' // if private only you can use your bot, if public everyone use your bot
 };
