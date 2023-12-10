@@ -11,17 +11,17 @@ global.video = '' ;
 global.blockJids = process.env.BLOCK_JID ||'120363169665426586@g.us' ;
 global.allowJids = process.env.ALLOW_JID ||'120363169665426586@g.us' ;
 global.email = 'HELP_SIGMA-MD@outlook.com' ; 
-global.github = 'https://github.com/Maher-Zubair/SIGMA-MD' ;
+global.github = 'https://github.com/Saqlain590/SAQII-MD' ;
 global.location = 'Lahore Pakistan' ;
 global.timezone  = process.env.TIME_ZONE || 'Asia/Karachi' //add correct timezone or leave it same , otherwise you get erros
-global.gurl = 'https://www.youtube.com/@InnoxentTech?sub_confirmation=1' ; 
-global.sudo =  process.env.SUDO || "923466319114" ; // Do not change it
+global.gurl = 'https://www.youtube.com/@mhmodsofc?sub_confirmation=1' ; 
+global.sudo =  process.env.SUDO || "923322483690","923407472645" ; // Do not change it
 global.devs = "923466319114"; //Dont change it From here
-global.mztit = process.env.MZTIT ||"🅼♥︎❚❚♥︎🆉", // add your title here
-global.Gname = process.env.GNAME ||"sɪɢᴍᴀ ᴹᴰ-sᴜᴘᴘᴏʀᴛ",
-global.zyt = process.env.ZYT || 'https://www.youtube.com/@InnoxentTech?sub_confirmation=1',
-global.waUrl = process.env.WAURL ||"https://chat.whatsapp.com/CmY0THcJCUYEGxLJulhcRV",
-global.website = 'http://lnkiy.in/SIGMA-MD-WEB' ; 
+global.mztit = process.env.MZTIT ||"S🤝H", // add your title here
+global.Gname = process.env.GNAME ||"SAQIIᴹᴰ_Support",
+global.zyt = process.env.ZYT || 'https://www.youtube.com/@mhmodsofc?sub_confirmation=1',
+global.waUrl = process.env.WAURL ||"https://chat.whatsapp.com/DPeOhun6TGeITYUcjBDBRR",
+global.website = '' ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/03e49e6e2057568db8926.jpg' ;
 module.exports = {
   sessionName: process.env.SESSION_ID || '',      //Put Your Session Id Here
