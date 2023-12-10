@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://www.youtube.com/@mhmodsofc">
-    <img alt=Support height="350" src="[https://telegra.ph/file/23ccb07066759bab3dbfe.jpg]"> 
+    <img alt=Support height="350" src="https://telegra.ph/file/23ccb07066759bab3dbfe.jpg"> 
     </p>
     <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=34&duration=3500&pause=1000&color=8B03A2&center=true&width=435&lines=Welcome+To+SAQII-MD;Multi-Device+Whatsapp+Bot;Developed+By+ SAQLAIN+KING;Released+Date+15%2F12%2F2023." alt="Typing SVG" /></a>
