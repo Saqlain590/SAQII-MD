@@ -1,7 +1,7 @@
 {
     "__JSON__": true,
-    "AUTHOR": "Maher Zubair",
-    "theme": "SIGMA_MD",
+    "AUTHOR": "SAQLAIN KING",
+    "theme": "SAQII-MD",
     "LANGUAGE": "English",
     "LANGCODE": "en",
     "STRINGS": {
@@ -11,9 +11,9 @@
             "UPDATED_LOCAL": "*Updated Successfully !*"
         },
         "global": {
-            "botName": " SIGMA-MD",
+            "botName": " SAQII-MD",
             "body": "whatsapp Bot",
-            "greet2" : "Thanks To Maher Zubair",
+            "greet2" : "Thanks To SAQLAIN KING",
             "pic1": "https://telegra.ph/file/693d471682edefa187dae.jpg",
             "pic2": "https://telegra.ph/file/03e49e6e2057568db8926.jpg",
             "pic3": "https://telegra.ph/file/2ca599cf20ac50ba941f6.jpg",
@@ -27,8 +27,8 @@
             "greet" : "Believe it",
             "dotbody" : "I decided being to be King.",
             "emojii" : "👑",
-            "promote": "Admin Role Given to Zubi",
-            "pmallow": "*Hi,This is Maher Zubair\n You have been blocked for spamming.",
+            "promote": "Admin Role Given to SAQI",
+            "pmallow": "*Hi,This is SAQLAIN KING\n You have been blocked for spamming.",
             "pmwarn": "Hi* \nPlease don't spam else I'll block you for spamming.\nJoin Support Group:\n https://chat.whatsapp.com/JM1yBMlveulDrAN22jHcWV\n*⤹★ᴘᴏᴡᴇʀᴇᴅ ʙʏ★⤸ sɪɢᴍᴀ ᴹᴰ*",
             "permited": "Hi\n\nNow You are permitted by my owner to pm now.\n*⤹★ᴘᴏᴡᴇʀᴇᴅ ʙʏ★⤸ sɪɢᴍᴀ ᴹᴰ*", 
             "revoked" : "*Hi*\nYour pm permit permission has been revoked now.\n*⤹★ᴘᴏᴡᴇʀᴇᴅ ʙʏ★⤸ sɪɢᴍᴀ ᴹᴰ*",
@@ -37,7 +37,7 @@
             "session": "*This is your session.json,keep it safe*\n*_Now Upload This json file in Your Forked Repo_*\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*⤹★ᴘᴏᴡᴇʀᴇᴅ ʙʏ★⤸ sɪɢᴍᴀ ᴹᴰ*",
             "mention": " Please mention My Owner",
             "title": "sɪɢᴍᴀ ᴹᴰ",
-            "theme": "SIGMA_MD",
+            "theme": "SAQII_MD",
             "footer": "ᴍᴀʜᴇʀ ᴢᴜʙᴀɪʀ\nwww.youtube.com",
             "by": "Made by: ᴍᴀʜᴇʀ ᴢᴜʙᴀɪʀ",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
