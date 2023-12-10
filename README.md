@@ -22,7 +22,7 @@
 
 
 <p align="center">
-<a href="https://github.com/Saqlain590"><img title="Owner" src="https://img.shields.io/badge/Owner-Saqlain-King-black.svg?style=for-the-badge&logo=github" width="173px" height="29"></a>
+<a href="https://github.com/Saqlain590"><img title="Owner" src="https://img.shields.io/badge/Owner-Saqlain590-black.svg?style=for-the-badge&logo=github" width="173px" height="29"></a>
 
  <a href="https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENCE">
 <img src='https://img.shields.io/github/license/Maher-Zubair/SIGMA-MD?color=%231e81b0&style=for-the-badge' width="143px">
@@ -117,7 +117,7 @@ mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=major
  </div>
 <br>
 <h4 align="left">
-  | [Sqlain King](https://github.com/Saqlain590) |
+  | [Sqlain King] |
 | Owner, Group Management, Public Testing |
   
 | [𝐂𝐇 𝐇𝐀𝐒𝐄𝐄𝐁](https://github.com/chhaseeb47) |
