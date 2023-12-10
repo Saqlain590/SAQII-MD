@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/github/forks/Saqlain590/SAQII-MD?label=Fork&style=social">
     
     
-  <a href="https://github.com/Saqlain590/SAQII-MDstargazers"> 
+  <a href="https://github.com/Saqlain590/SAQII-MD/stargazers"> 
     <img src="https://img.shields.io/github/stars/Saqlain590?style=social">
   </a>
 
@@ -24,15 +24,15 @@
 <p align="center">
 <a href="https://github.com/Saqlain590"><img title="Owner" src="https://img.shields.io/badge/Owner-Saqlain590-black.svg?style=for-the-badge&logo=github" width="173px" height="29"></a>
 
- <a href="https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENCE">
-<img src='https://img.shields.io/github/license/Maher-Zubair/SIGMA-MD?color=%231e81b0&style=for-the-badge' width="143px">
+ <a href="https://github.com/Saqlain590/SAQII-MD/blob/main/LICENCE">
+<img src='https://img.shields.io/github/license/Saqlain590/SAQII-MD?color=%231e81b0&style=for-the-badge' width="143px">
 <p align="center"> 
   <a aria-label="Join our chats" href="https://chat.whatsapp.com/DPeOhun6TGeITYUcjBDBRR" target="_blank">
    <img alt="whatsapp" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     <a aria-label="Join our chats" href="https://chat.whatsapp.com/DPeOhun6TGeITYUcjBDBRR" target="_blank">
    <img alt="whatsapp" src="https://img.shields.io/badge/Public Bot Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Maher-Zubair}/count.svg" alt="Maher-Zubair :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Saqlain590}/count.svg" alt="Saqlain :: Visitor's Count" /></p>
 
 ## ***Bot Features***
 ---
@@ -70,7 +70,7 @@
 ```
 mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=majority
 ```
-  <div align="center">\
+  <div align="center">
   
 <h2 align="center"> 🔰 𝐒𝐭𝐞𝐩 𝟑 𝐃𝐞𝐩𝐥𝐨𝐲 🔰 </h2>
 
@@ -154,7 +154,7 @@ mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=major
 <p align="center">
 ## ```𝘓𝘦𝘨𝘢𝘭 𝘋𝘪𝘴𝘤𝘭𝘢𝘪𝘮𝘦𝘳```
   
-***The [SAQII-MD](https://github.com/Saqlain590/SAQII-MD) is Made Under The [`GPL-3 license`](https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENCE).***
+***The [SAQII-MD](https://github.com/Saqlain590/SAQII-MD) is Made Under The [`GPL-3 license`](https://github.com/Saqlain590/SAQII-MD/blob/main/LICENCE).***
 - *I will only Assist You in Bot Deployment and Hosting, Not in Bot Development*
 - *If You Modify The Bot And Face Any Issue, I will not Responsible Because It is not Possible For Me To Help Everyone*
 - *This Bot is For Fun and Educational Purpose, I will not Responsible If You Spam and Misuse It*
