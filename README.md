@@ -1,5 +1,5 @@
 
-<h1 align="center"> s𝗦𝗔𝗤𝗜𝗜 ᴹᴰ </h1>
+<h1 align="center"> 𝗦𝗔𝗤𝗜𝗜 ᴹᴰ </h1>
 </p>
 <p align="center">
   <a href="https://www.youtube.com/@InnoxentTech">
