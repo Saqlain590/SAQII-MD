@@ -10,7 +10,7 @@
   </p>
 
 <p align="center">
-  <a href="https://github.com/Maher-Zubair/SIGMA-MD/fork">
+  <a href="https://github.com/Saqlain590/SAQII-MD/fork">
     <img src="https://img.shields.io/github/forks/Saqlain590/SAQII-MD?label=Fork&style=social">
     
     
@@ -117,8 +117,12 @@ mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=major
  </div>
 <br>
 <h4 align="left">
-| [ Sqlain King ](https://github.com/Saqlain590) |
+| [  ][https://github.com/chhaseeb47] |
 |  Owner, Group Management|
+  
+  | [Sqlain King](https://github.com/Saqlain590) |
+| Owner, Group Management, Public Testing |
+  
 | [𝐂𝐇 𝐇𝐀𝐒𝐄𝐄𝐁](https://github.com/chhaseeb47) |
 | Co.Owner, Developer, Bug Fixer, Maintainer, updates|
 
@@ -152,10 +156,12 @@ mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=major
 
 <p align="left">
 ## ```𝘓𝘦𝘨𝘢𝘭 𝘋𝘪𝘴𝘤𝘭𝘢𝘪𝘮𝘦𝘳```
+  
 ***The [SAQII-MD](https://github.com/Saqlain590/SAQII-MD) is Made Under The [`GPL-3 license`](https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENCE).***
 - *I will only Assist You in Bot Deployment and Hosting, Not in Bot Development*
 - *If You Modify The Bot And Face Any Issue, I will not Responsible Because It is not Possible For Me To Help Everyone*
 - *This Bot is For Fun and Educational Purpose, I will not Responsible If You Spam and Misuse It*
+- 
 - ***Regards [SAQLAIN-KING](https://github.com/Saqlain590/SAQII-MD)***
 
 
