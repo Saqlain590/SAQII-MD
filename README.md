@@ -48,13 +48,13 @@
 
 ## `𝘋𝘦𝘱𝘭𝘰𝘺𝘮𝘦𝘯𝘵 𝘔𝘦𝘵𝘩𝘰𝘥𝘴`
 
-<div align="center">\
+<div align="center">
   
 <h2 align="center"> 🔰 𝐒𝐭𝐞𝐩 𝟏 𝐓𝐚𝐩 𝐚𝐧𝐝 𝐅𝐨𝐫𝐤 🔰 </h2>
-<a href="https://github.com/Saqlain590/SAQII-MD/fork"><img title="Hasi-1.0" src="https://img.shields.io/badge/FORK Hasi-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Saqlain590/SAQII-MD/fork"><img title="Hasi-1.0" src="https://img.shields.io/badge/FORK SAQII-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
   </a>
 
-  <div align="center">\
+  <div align="center">
   
 <h2 align="center"> 🔰 𝐒𝐭𝐞𝐩 𝟐 𝐒𝐜𝐚𝐧 𝐐𝐑 🔰 </h2>
 
@@ -112,14 +112,11 @@ mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=major
 <p align="left" >
 ## `𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑` , `𝐀𝐮𝐭𝐡𝐨𝐫𝐬`
 <div align="left">
-  <a href="[https://github.com/Saqlain590.png]"><img src="https://github.com/Saqlain590.png" width="200" height="200" alt="Ash"/></a>
-<a href="[https://github.com/chhaseeb47.png]"><img src="https://github.com/chhaseeb47.png" width="150" height="200" alt="Ash"/></a>
+  <a href="[https://github.com/Saqlain590.png]"><img src="https://github.com/Saqlain590.png" width="1700" height="200" alt="Ash"/></a>
+<a href="[https://github.com/chhaseeb47.png]"><img src="https://github.com/chhaseeb47.png" width="200" height="200" alt="Ash"/></a>
  </div>
 <br>
 <h4 align="left">
-| [  ][https://github.com/chhaseeb47] |
-|  Owner, Group Management|
-  
   | [Sqlain King](https://github.com/Saqlain590) |
 | Owner, Group Management, Public Testing |
   
@@ -154,7 +151,7 @@ mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=major
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Our Bot Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
-<p align="left">
+<p align="center">
 ## ```𝘓𝘦𝘨𝘢𝘭 𝘋𝘪𝘴𝘤𝘭𝘢𝘪𝘮𝘦𝘳```
   
 ***The [SAQII-MD](https://github.com/Saqlain590/SAQII-MD) is Made Under The [`GPL-3 license`](https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENCE).***
