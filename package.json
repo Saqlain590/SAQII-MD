@@ -1,15 +1,15 @@
 {
-          "name": "SIGMA-MD",
+          "name": "SAQII-MD",
           "version": "1.2.7",
-          "description": "SIGMA-MD A Whatsapp Bot By Maher Zubair",
+          "description": "SAQII-MD A Whatsapp Bot By SAQLAIN KING",
           "main": "lib/client.js",
           "type": "commonjs",
           "license": "GPL-3.0",
           "scripts": { 
-                    "start": "pm2 start lib/client.js --deep-monitoring --attach --name SIGMA-MD",
-                    "stop": "pm2 stop SIGMA-MD"
+                    "start": "pm2 start lib/client.js --deep-monitoring --attach --name SAQII-MD",
+                    "stop": "pm2 stop SAQII-MD"
           },
-          "author": "Maher Zubair",
+          "author": "SAQLAIN KING",
           "dependencies": {
                     "@adiwajshing/keyed-db": "^0.2.4",
                     "@bochilteam/scraper": "latest",
