@@ -370,7 +370,7 @@ return citel.reply("*_Group Link Revoked SuccesFully_*");
         let username = await sck1.findOne({ id: person.quoted.sender });
         var tname = username.name;
     
-    let Maher = `     
+    let Saqlain = `     
 ┏━━⟪⟪ 🅼♥︎❚❚♥︎🆉 ⟫━⦿  
 ┃✗ *•ᴅᴇᴠᴇʟᴏᴘᴇʀ's ᴡᴀʀɴɪɴɢ•*
 ┃✗ *•ɴᴀᴍᴇ•* ${tname}
@@ -389,7 +389,7 @@ return citel.reply("*_Group Link Revoked SuccesFully_*");
     
     let king = {
         image: { url: pfp},
-        caption: Maher,
+        caption: Saqlain,
         footer: tlang().footer,
         headerType: 4,
         contextInfo: {
@@ -1120,7 +1120,7 @@ Module_Exports({
         const listAdmin = groupAdmins.map((v, i) => `┃✗ @${v.id.split('@')[0]}`).join('\n')
     
     
-    let tag = `┏━━⟪⟪ ${mztit} ⟫━⦿\n┃✗ *_•𝚃𝙰𝙶𝙶𝙴𝙳 𝙱𝚈•_* @${man.sender.split("@")[0]}
+    let tag = `┏━━⟪⟪ ${shtit} ⟫━⦿\n┃✗ *_•𝚃𝙰𝙶𝙶𝙴𝙳 𝙱𝚈•_* @${man.sender.split("@")[0]}
     ${text ? "≡ bot :" + text : ""}
 ┏━━ *_•𝙰𝙳𝙼𝙸𝙽𝚂•_* ━⦿
 ${listAdmin}
@@ -1292,7 +1292,7 @@ Module_Exports({
         console.log(h)
         teskd += `*_There are Total ${h.length}  warnings_*\n`
         for (let i = 0; i < h.length; i++) {
-            teskd += `*${i+1}*\n┏━━⟪⟪ ${mztit} ⟫━⦿\n┃✗ *_•𝙸𝙽 𝙶𝚁𝙾𝚄𝙿•_* ${h[i].group}\n`
+            teskd += `*${i+1}*\n┏━━⟪⟪ ${shtit} ⟫━⦿\n┃✗ *_•𝙸𝙽 𝙶𝚁𝙾𝚄𝙿•_* ${h[i].group}\n`
             teskd += `┃✗ *_•𝚃𝙸𝙼𝙴•_* ${h[i].date}\n`
             teskd += `┃✗ *_•𝚆𝙰𝚁𝙽𝙴𝙳 𝙱𝚈•_* ${h[i].warnedby}\n`
             teskd += `┃✗ *_•𝚁𝙴𝙰𝚂𝙾𝙽•_* ${h[i].reason}\n┗━━━━━━━━━━⦿\n`
@@ -1386,7 +1386,7 @@ Module_Exports({
 		    {
 			    await Void.sendMessage(citel.chat, { image: {  url: await botpic() },
 			caption: `
-┏━━⟪⟪ ${mztit} ⟫━⦿
+┏━━⟪⟪ ${shtit} ⟫━⦿
 ┃✗ *•ᴡᴏᴡ,sᴏᴍᴇᴏɴᴇ ᴊᴜsᴛ•*
 ┃✗ *•ʟᴇᴠᴇʟᴇᴅ ᴜᴘ ʜᴜʜ•*
 ┃✗ *•ɴᴀᴍᴇ•* ${citel.pushName}
