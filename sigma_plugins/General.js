@@ -43,7 +43,7 @@ Module_Exports({
         shortcut : ["advertisement"],
         kingclass: "misc",
         infocmd: "Advertise of your Message, by sending it to provided nmbr range.",
-        use: '9231844741xx,Your_text_here',
+        use: '923407472xx,Your_text_here',
         kingpath: __filename,
   },
   async(Void, citel, text , { isCreator }) => {
@@ -133,7 +133,7 @@ const _0x17a2f2=_0x21e6;(function(_0x9ca8c8,_0x29263d){const _0x289e2e=_0x21e6,_
 Module_Exports({
   kingcmd: "yt",
   shortcut: ["ytube", "link", "myyt"],
-  infocmd: "Sends info about My Ytube Channel CheckOut : https://www.youtube.com/@InnoxentTech",
+  infocmd: "Sends info about My Ytube Channel CheckOut : https://www.youtube.com/@mhmodsofc",
   kingclass: "developer",
   kingpath: __filename,
 },
@@ -143,9 +143,9 @@ let zubi_yt = `
 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐌𝐘 𝐂𝐇𝐀𝐍𝐍𝐄𝐋
 
 *•𝙲𝙾𝙽𝚃𝙴𝙽𝚃•* How To Create Whatsapp Bot
-*•𝚃𝙾𝚃𝙰𝙻 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴𝚁𝚂•* 0 Subs😥
+*•𝚃𝙾𝚃𝙰𝙻 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴𝚁𝚂•* 1.30k Subs😥
 *•𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝙻𝙸𝙽𝙺•*
-_http://lnkiy.in/Innoxent-yt_
+_ https://www.youtube.com/@mhmodsofc_
 
 ${scap}`
 
@@ -305,12 +305,12 @@ Module_Exports({
   use: "",
 },
 async(sigma, person) => {
-const sigma_male_zubair = require('performance-now')
+const sigma_male_salain = require('performance-now')
    timestampe = sigma_male_zubair();
        latensie = sigma_male_zubair() - timestampe;
-   let Zubair = `_ʀᴇsᴘᴏɴᴅ ʀᴀᴛᴇ ᴏꜰ_ _${name.botname}_ ɪs:\n ${latensie.toFixed(4)} ᴍs`
-       return person.reply(Zubair)
+   let saqlain = `_ʀᴇsᴘᴏɴᴅ ʀᴀᴛᴇ ᴏꜰ_ _${name.botname}_ ɪs:\n ${latensie.toFixed(4)} ᴍs`
+       return person.reply(saqlain)
 })
-// All These General Commands Are Developed By @Maher-Zubair
-// Whatsapp +923466319114
+// All These General Commands Are Developed By @chhaseeb47
+// Whatsapp +923407472645
 // Usage And CopyRights Are Reserved
