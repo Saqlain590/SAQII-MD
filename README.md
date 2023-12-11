@@ -81,7 +81,7 @@ mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=major
 </h4>
 </p>
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/https://github.com/Saqlain590/SAQII-MD/">
+    <a href="https://heroku.com/deploy?template=https://github.com/Saqlain590/SAQII-MD/">
     <img src="https://www.herokucdn.com/deploy/button.png" width="170px" alt="Deploy on Heroku" >
     </a>
 </p>
