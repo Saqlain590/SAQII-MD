@@ -420,7 +420,7 @@ Module_Exports({
 	const apkSize = parseInt(baby1[0].size);
 	if(apkSize > 100) return citel.reply(`❌ File size bigger than 150mb.`);
 	
-let result4 = ` *Mᴇᴅɪᴀғɪʀᴇ Dᴏᴡɴʟᴏᴀᴅᴇʀ*
+let result4 = ` *SAQIIᴹᴰ Mᴇᴅɪᴀғɪʀᴇ Dᴏᴡɴʟᴏᴀᴅᴇʀ*
 *Nᴀᴍᴇ* : ${baby1[0].nama}
 *Sɪᴢᴇ* :${baby1[0].size}
 *Mɪᴍᴇ* : ${baby1[0].mime}
@@ -466,7 +466,7 @@ let result4 = ` *Mᴇᴅɪᴀғɪʀᴇ Dᴏᴡɴʟᴏᴀᴅᴇʀ*
         if (infoYt.videoDetails.lengthSeconds >= videotime) return citel.reply(`Audio File Too Big!`);
         let titleYt = infoYt.videoDetails.title;
         let randomName = getRandom(".mp3");
-        citel.reply('*𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙸𝙽𝙶:* '+tax)
+        citel.reply('*SAQIIᴹᴰ 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙸𝙽𝙶:* '+tax)
         const stream = ytdl(anu.url, {
                 filter: (info) => info.audioBitrate == 160 || info.audioBitrate == 128,
             })
@@ -560,7 +560,7 @@ Module_Exports({
                 citel.reply("*_Give ME YouTube Link_*");
                 return;
             }
-            citel.reply('*𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙸𝙽𝙶:* '+text)
+            citel.reply('*SAQIIᴹᴰ 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙸𝙽𝙶:* '+text)
             try {
                 let urlYt = text;
                 if (!urlYt.startsWith("http")) return citel.reply("*_Plz Give ME YouTube Link_*");
@@ -630,7 +630,7 @@ Module_Exports({
         };
 
         if (text.length === 0) {
-            citel.reply('```Please Give Me Link```');
+            citel.reply('```Please Give Me Link ```');
             return;
         }
         try {
@@ -715,10 +715,10 @@ Module_Exports({
         try {
             let urlYt = text;
             if (!urlYt.startsWith("http")) {
-                citel.reply(`_Idiot Give YouTube Link_`);
+                citel.reply(`_Kaminy Give YouTube Link_`);
                 return;
             }
-            citel.reply('*𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙸𝙽𝙶:* '+text)
+            citel.reply('*SAQIIᴹᴰ 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙸𝙽𝙶:* '+text)
             let infoYt = await ytdl.getInfo(urlYt);
             //30 MIN
             if (infoYt.videoDetails.lengthSeconds >= videotime) {
@@ -786,7 +786,7 @@ Module_Exports({ on: "text" }, async(Void, citel ,text , {isCreator} ) => {
 
 })
 
-// These Downloader Commands are Developed By @Maher-Zubair
-// Whatsapp +923466319114
+// These Downloader Commands are Developed By @chhaseeb47
+// Whatsapp +923462054847
 // Usage And CopyRights Are Reserved
 
