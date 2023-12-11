@@ -59,10 +59,10 @@
 <h2 align="center"> 🔰 𝐒𝐭𝐞𝐩 𝟐 𝐒𝐜𝐚𝐧 𝐐𝐑 🔰 </h2>
 
 
-<a href='https://replit.com/@SIGMA-Zubi/SIGMA-MD-QR?v=1' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='https://replit.com/@MHMODS/SAQII-MD-QR?v=1' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
    
-<a href='https://replit.com/@SIGMA-Zubi/SIGMA-MD-QR?v=1' target="_blank"><img alt='SCAN QR-2' src='https://img.shields.io/badge/Scan_qr-2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+<a href='https://replit.com/@MHMODS/SAQII-MD-QR?v=1' target="_blank"><img alt='SCAN QR-2' src='https://img.shields.io/badge/Scan_qr-2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
  <div align="left">
 
 ## `𝐌𝐨𝐧𝐠𝐨𝐃𝐁 𝐔𝐑𝐋.`    Your Bot Cannot run without this.
