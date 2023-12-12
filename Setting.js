@@ -17,7 +17,7 @@ global.timezone  = process.env.TIME_ZONE || 'Asia/Karachi' //add correct timezon
 global.gurl = 'https://www.youtube.com/@mhmodsofc?sub_confirmation=1' ; 
 global.sudo =  process.env.SUDO || "923322483690","923407472645" ; // Do not change it
 global.devs = "923466319114"; //Dont change it From here
-global.mztit = process.env.MZTIT ||"S🤝H", // add your title here
+global.mztit = process.env.MZTIT ||"𝗦𝗔𝗤𝗜𝗜 ᴹᴰ", // add your title here
 global.Gname = process.env.GNAME ||"SAQIIᴹᴰ_Support",
 global.zyt = process.env.ZYT || 'https://www.youtube.com/@mhmodsofc?sub_confirmation=1',
 global.waUrl = process.env.WAURL ||"https://chat.whatsapp.com/DPeOhun6TGeITYUcjBDBRR",
