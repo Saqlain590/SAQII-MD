@@ -10,7 +10,7 @@ global.audio = '' ;
 global.video = '' ;
 global.blockJids = process.env.BLOCK_JID ||'120363169665426586@g.us' ;
 global.allowJids = process.env.ALLOW_JID ||'120363169665426586@g.us' ;
-global.email = 'HELP_SIGMA-MD@outlook.com' ; 
+global.email = 'HELP_sb7015441@gmail.com' ; 
 global.github = 'https://github.com/Saqlain590/SAQII-MD' ;
 global.location = 'Lahore Pakistan' ;
 global.timezone  = process.env.TIME_ZONE || 'Asia/Karachi' //add correct timezone or leave it same , otherwise you get erros
@@ -47,7 +47,7 @@ module.exports = {
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME,
   HEROKU_API_KEY: process.env.HEROKU_API_KEY,
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "34wcCGPoe3yaGtpiBZgx4SN7", // add your remove bg key if you have it
-  caption :process.env.CAPTION || "\t*⤹★ᴘᴏᴡᴇʀᴇᴅ ʙʏ★⤸ sɪɢᴍᴀᴹᴰ* ",   //*『ꜱᴜʙꜱᴄʀɪʙᴇ . ᴍʜ ᴍᴏᴅꜱ ᴏꜰᴄ』https://www.youtube.com/@mhmodsofc,
+  caption :process.env.CAPTION || "\t*⤹★ᴘᴏᴡᴇʀᴇᴅ ʙʏ★⤸ 𝗦𝗔𝗤𝗜𝗜 ᴹᴰ* ",   //*『ꜱᴜʙꜱᴄʀɪʙᴇ . ᴍʜ ᴍᴏᴅꜱ ᴏꜰᴄ』https://www.youtube.com/@mhmodsofc,
   promote_demote_messages : process.env.PROMOTE_DEMOTE_MESSAGES || 'true' ,
   OPENAI_API_KEY: process.env.OPENAI_API_KEY ||'' , // add your openai key if you have it
   VERSION: process.env.VERSION || '𝚅.𝟷.𝟸.𝟽',
