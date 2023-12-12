@@ -21,7 +21,7 @@ const fs = require('fs-extra')
 const { plugins,plugindb, remove, isUrl,Module_Exports , tlang  , name } = require('../lib')
 const sɪɢᴍᴀ_ᴍᴅ = require('../lib/sigma_plugins')
 //---------------------------------------------------------------------------
-sɪɢᴍᴀ_ᴍᴅ.Module_Exports({
+SAQII_ᴍᴅ.Module_Exports({
     kingcmd: "ping",
     infocmd: "To check ping",
     kingclass: "tools",
