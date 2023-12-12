@@ -1,5 +1,5 @@
 while true 
 do
-echo "Starting SIGMA-MD..."
+echo "Starting  𝗦𝗔𝗤𝗜𝗜 ᴹᴰ..."
 node lib/client.js
 done
