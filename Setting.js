@@ -34,20 +34,20 @@ module.exports = {
   antibadword : process.env.ANTI_BAD_WORD || 'nobadwordokey',
   alwaysonline: process.env.ALWAYS_ONLINE || 'true', // it will show always online, false it if you dont want
   antifake :   process.env.FAKE_COUNTRY_CODE ||'212',
-  readmessage: process.env.READ_MESSAGE || 'true', // it will read all your messages, false it if you dont want
+  readmessage: process.env.READ_MESSAGE || 'false', // it will read all your messages, false it if you dont want
   HANDLERS: process.env.PREFIX || '.',
   warncount : process.env.WARN_COUNT || 2,
   disablepm: process.env.DISABLE_PM || "false", // if true it will disable your pm
   MsgsInLog:process.env.MSGS_IN_LOG ||'false',
   pmMsgsInLog:process.env.PM_MSGS_IN_LOGS ||'false',
-  levelupmessage: process.env.LEVEL_UP_MESSAGE || 'true', 
+  levelupmessage: process.env.LEVEL_UP_MESSAGE || 'false', 
   antilink: process.env.ANTILINK_VALUES || 'chat.whatsapp.com',
   antilinkaction: process.env.BRANCH || 'remove',
   BRANCH: process.env.BRANCH || 'Main',
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME,
   HEROKU_API_KEY: process.env.HEROKU_API_KEY,
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "34wcCGPoe3yaGtpiBZgx4SN7", // add your remove bg key if you have it
-  caption :process.env.CAPTION || "\t*⤹★ᴘᴏᴡᴇʀᴇᴅ ʙʏ★⤸ sɪɢᴍᴀ ᴹᴰ* ",   //*『sᴜʙsᴄʀɪʙᴇ • ɪɴɴᴏxᴇɴᴛ ᴛᴇᴄʜ』https://www.youtube.com/@mhmodsofc,
+  caption :process.env.CAPTION || "\t*⤹★ᴘᴏᴡᴇʀᴇᴅ ʙʏ★⤸ sɪɢᴍᴀᴹᴰ* ",   //*『ꜱᴜʙꜱᴄʀɪʙᴇ . ᴍʜ ᴍᴏᴅꜱ ᴏꜰᴄ』https://www.youtube.com/@mhmodsofc,
   promote_demote_messages : process.env.PROMOTE_DEMOTE_MESSAGES || 'true' ,
   OPENAI_API_KEY: process.env.OPENAI_API_KEY ||'' , // add your openai key if you have it
   VERSION: process.env.VERSION || '𝚅.𝟷.𝟸.𝟽',
